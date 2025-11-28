@@ -86,3 +86,34 @@ The site recreates a real Figma design through clean code, accessibility, and pr
 ---
 
 ## 📂 **Project Structure**
+---
+
+## 🚀 **How to Run Locally**
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/KehindeAkinjo1993/black-reign-books-website.git
+
+2. Open the folder:
+     cd black-reign-books-website
+
+3. 	Open index.html in your browser.
+No build tools — this project runs directly in the browser.
+
+🧭 Future Improvements
+
+These are optional enhancements you may add later:
+	•	Add form validation with JavaScript
+	•	Create a small backend using Firebase for submissions
+	•	Add animations using GSAP or ScrollReveal
+	•	Improve dark mode support
+	•	Convert into a React project for scalability
+
+
+👨🏾‍💻 Author
+
+Kehinde Akinjo
+Self-taught web developer based in London & Philadelphia.
+Focused on modern frontend development, UI/UX, and creative digital storytelling.
+
+🔗 Portfolio coming soon
